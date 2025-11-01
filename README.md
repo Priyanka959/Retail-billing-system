@@ -29,5 +29,4 @@ This project automates the process of generating bills, tracking stock, and main
 
 ---
 
-## 🏗️ Project Structure
 
