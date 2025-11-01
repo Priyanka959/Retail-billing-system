@@ -1,21 +1,33 @@
-Retail Billing System
+# 🛒 Retail Billing System
 
-Retail Billing System is a full-stack web application built with Spring Boot, ReactJS, and MySQL that streamlines the billing and inventory management process for retail businesses. It allows store administrators to manage products, track sales, generate invoices, and view customer transaction histories in real-time through a responsive and intuitive interface.
+A **full-stack web application** built using **Spring Boot**, **ReactJS**, and **MySQL** that helps retail stores efficiently manage products, inventory, and billing operations.  
+This project automates the process of generating bills, tracking stock, and maintaining customer transactions — reducing manual effort and errors.
 
- Tech Stack
- 
-Frontend: ReactJS
+---
 
-Backend: Spring Boot (Java)
+## 🚀 Features
 
-Database: MySQL
+- 🧾 **Billing & Invoice Generation** – Create and print customer bills easily.  
+- 📦 **Product Management** – Add, update, delete, and view product details.  
+- 🔄 **Inventory Tracking** – Automatically updates stock levels after each sale.  
+- ⚠️ **Low Stock Alerts** – Notifies when stock quantity falls below a threshold.  
+- 👥 **Customer Management** – Manage customer information and purchase history.  
+- 💾 **Database Integration** – Data persisted in MySQL.  
+- 🌐 **Responsive Frontend** – Built with ReactJS for smooth user experience.  
 
- Features
- 
-Add, edit, delete, and view products
+---
 
-Efficient billing and invoice generation
+## 🧰 Tech Stack
 
-Real-time stock updates and alerts
+| Layer | Technology Used |
+|-------|------------------|
+| Frontend | ReactJS, HTML, CSS, Bootstrap |
+| Backend | Spring Boot (Java), Spring MVC, Spring Data JPA |
+| Database | MySQL |
+| Tools | IntelliJ IDEA / VS Code, Postman, Git, Maven |
+| APIs | RESTful APIs for communication between frontend & backend |
 
-Customer and transaction management
+---
+
+## 🏗️ Project Structure
+
